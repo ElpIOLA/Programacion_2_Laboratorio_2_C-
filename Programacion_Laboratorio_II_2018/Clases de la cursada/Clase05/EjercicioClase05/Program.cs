@@ -48,7 +48,7 @@ namespace EjercicioClase05
         }
         Console.ReadLine();
 
-            Tinta pluma1 = new Tinta(ConsoleColor.DarkGreen);
+        Tinta pluma1 = new Tinta(ConsoleColor.DarkGreen);
         Pluma lapicera_1 = new Pluma("kalawa", 25, pluma1);
         Console.Write(lapicera_1);
         lapicera_1 = lapicera_1 + pluma1;
