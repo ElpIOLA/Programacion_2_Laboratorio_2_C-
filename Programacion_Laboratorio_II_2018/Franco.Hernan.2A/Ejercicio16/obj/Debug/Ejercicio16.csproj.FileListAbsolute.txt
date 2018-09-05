@@ -1,0 +1,7 @@
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio16\obj\Debug\Ejercicio16.pdb
