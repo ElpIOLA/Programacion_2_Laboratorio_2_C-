@@ -30,6 +30,9 @@ namespace EjercicioClase06
         this.cboTipoTinta.Items.Add(_TipoTinta);
       }
 
+       cboTipoTinta.SelectedItem = ETipoTinta.comun;
+       cboTipoTinta.DropDownStyle = ComboBoxStyle.DropDownList;
+
     }
 
     private void frmTinta_Load(object sender, EventArgs e)
