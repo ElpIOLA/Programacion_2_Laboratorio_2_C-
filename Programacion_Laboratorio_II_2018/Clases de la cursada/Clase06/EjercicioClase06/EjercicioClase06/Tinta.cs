@@ -62,61 +62,60 @@ namespace EjercicioClase05
         {
             return !(obj1 == obj2);
         }
-
         #endregion
     }
 
     class Pluma
     {
-    #region Atributos
-    private string _marca;
-    private int _cantidad;
-    private Tinta _tinta;
-    #endregion
+        #region Atributos
+        private string _marca;
+        private int _cantidad;
+        private Tinta _tinta;
+        #endregion
 
-    #region Constructores
-    public Pluma()
-    {
-      this._marca = "Sin Marca";
-      this._cantidad = 0;
-      this._tinta = null;
-    }
+        #region Constructores
+        public Pluma()
+        {
+          this._marca = "Sin Marca";
+          this._cantidad = 0;
+          this._tinta = null;
+        }
 
-    public Pluma(string m) : this()
-    {
-      this._marca = m;
-    }
+        public Pluma(string m) : this()
+        {
+          this._marca = m;
+        }
 
-    public Pluma(int c) : this()
-    {
-      this._cantidad = c;
-    }
+        public Pluma(int c) : this()
+        {
+          this._cantidad = c;
+        }
 
-    public Pluma(Tinta t) : this()
-    {
-      this._tinta = t;
-    }
+        public Pluma(Tinta t) : this()
+        {
+          this._tinta = t;
+        }
 
-    public Pluma(string m, int c) : this(m)
-    {
-      this._cantidad = c;
-    }
+        public Pluma(string m, int c) : this(m)
+        {
+          this._cantidad = c;
+        }
 
-    public Pluma(string m, Tinta t) : this(m)
-    {
-      this._tinta = t;
-    }
+        public Pluma(string m, Tinta t) : this(m)
+        {
+          this._tinta = t;
+        }
 
-    public Pluma(int c, Tinta t) : this(c)
-    {
-      this._tinta = t;
-    }
+        public Pluma(int c, Tinta t) : this(c)
+        {
+          this._tinta = t;
+        }
 
-    public Pluma(string m, int c, Tinta t) : this(m, c)
-    {
-      this._tinta = t;
-    }
-    #endregion
+        public Pluma(string m, int c, Tinta t) : this(m, c)
+        {
+          this._tinta = t;
+        }
+        #endregion
 
         #region Metodos
         private string Mostrar()

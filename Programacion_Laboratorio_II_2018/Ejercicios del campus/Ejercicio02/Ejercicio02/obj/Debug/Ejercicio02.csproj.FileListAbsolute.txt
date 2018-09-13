@@ -1,0 +1,7 @@
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb

@@ -11,12 +11,24 @@ namespace Ejercicio21
         #region Atributos
         private Celsius _celsius;
         private Kelvin _kelvin;
+        private float valor = 9 / 5;
         #endregion
 
         #region Constructor
-        public Fahrenheit(Celsius celsius)
+        public Fahrenheit()
         {
-            this._celsius = celsius;
+            this._celsius = null;
+            this._kelvin = null;
+        }
+
+        public Fahrenheit(Celsius c)
+        {
+            this._celsius = c;
+        }
+
+        public Fahrenheit(Celsius c, float valor) : this (c)
+        {
+            this.valor = valor;
         }
 
         public Fahrenheit(Kelvin kelvin)
@@ -26,22 +38,20 @@ namespace Ejercicio21
         #endregion
 
         #region Metodos
-        public Fahrenheit CalcularC(Celsius celsius)
+
+        public Fahrenheit calcular(Celsius C, float valor)
         {
-            Fahrenheit F = new Fahrenheit(celsius);
-            return F = this._celsius * (9 / 5) + 32;
+            if (!object.Equals(C, null))
+            {
+                Fahrenheit F = new Fahrenheit(C.valor * valor);
+                return F;
+            }
+            return null;
         }
 
-        public static explicit operator Fahrenheit(Celsius C)
+        public static Fahrenheit operator ++(Fahrenheit F)
         {
-            return (Fahrenheit)C;
-        }
-
-        public static Fahrenheit operator *(Celsius C, int N)
-        {
-            Fahrenheit F = new Fahrenheit(C);
-            F = C.F * N;
-            return F;
+            return F++;
         }
         #endregion
     }

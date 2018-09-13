@@ -43,10 +43,7 @@ namespace Sobrecarga.Operadores._2018
 
         public static explicit operator double(Numero n)
         {
-
-            
             return n.valor;
-
         }
 
 

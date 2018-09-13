@@ -9,7 +9,12 @@ namespace Ejercicio21
     class Celsius
     {
         #region Atributos
-        public Fahrenheit F;
+        private Fahrenheit F;
+        public float valor = (F - 32) * 5 / 9;
+        #endregion
+
+        #region Metodos
+
         #endregion
     }
 }
