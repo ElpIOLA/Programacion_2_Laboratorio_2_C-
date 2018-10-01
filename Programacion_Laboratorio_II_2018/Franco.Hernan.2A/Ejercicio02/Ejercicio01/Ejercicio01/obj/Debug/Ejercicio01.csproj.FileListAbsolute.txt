@@ -1,0 +1,7 @@
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csprojAssemblyReference.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio01\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb

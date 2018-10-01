@@ -7,3 +7,12 @@ E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la
 E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
 E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.dll
 E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase07_08\EjercicioClase07_08\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

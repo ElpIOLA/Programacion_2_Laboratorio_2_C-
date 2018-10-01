@@ -26,16 +26,16 @@ namespace Entidades
         #region Metodos
         private string Mostrar()
         {
-            string retorno = "";
-            retorno += "\nCantidad: ";
-            retorno += this._cantidad;
-            retorno += "\nColor: ";
-            retorno += this._color;
-            retorno += "\nMarca: ";
-            retorno += this._marca;
-            retorno += "\n";
-            return retorno;
+            return "\nCantidad: " + this._cantidad + " Color: " + this._color + " Marca: " + this._marca + "\n";
         }
+        #endregion
+
+        #region Propiedades
+
+        public sbyte GetCantidad { get { return this._cantidad; } }
+        public ConsoleColor GetColor { get { return this._color; } }
+        public string GetMarca { get { return this._marca; ; } }
+
         #endregion
 
         #region SobreCargas

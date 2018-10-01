@@ -176,19 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ElpIOLA\\.nuget\\packages\\": {}
+    "C:\\Users\\Hernan Franco\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "F:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "E:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\Entidades.csproj",
-      "packagesPath": "C:\\Users\\ElpIOLA\\.nuget\\packages\\",
-      "outputPath": "E:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\obj\\",
+      "projectPath": "F:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\Entidades.csproj",
+      "packagesPath": "C:\\Users\\Hernan Franco\\.nuget\\packages\\",
+      "outputPath": "F:\\Programacion_2_Laboratorio_2_C-\\Programacion_Laboratorio_II_2018\\Clases de la cursada\\Clase07_08\\EjercicioClase07_08\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ElpIOLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hernan Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

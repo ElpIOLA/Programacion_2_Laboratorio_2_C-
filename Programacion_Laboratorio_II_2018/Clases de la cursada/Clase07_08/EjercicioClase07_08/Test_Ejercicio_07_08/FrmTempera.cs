@@ -42,6 +42,14 @@ namespace Test_Ejercicio_07_08
             this.MinimizeBox = false;
         }
 
+        public FrmTempera(Tempera T) : this()
+        {
+            this._miTempera = T;
+            this.comboColor.SelectedItem = T.GetColor;
+            this.textCantidad.Text = "" + T.GetCantidad;
+            this.textMarca.Text = T.GetMarca;
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             _miTempera = new Tempera(sbyte.Parse(this.textCantidad.Text), (ConsoleColor)this.comboColor.SelectedItem, this.textMarca.Text);

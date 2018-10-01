@@ -1,0 +1,7 @@
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csprojAssemblyReference.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.CoreCompileInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_5\Ejercicio_5\obj\Debug\Ejercicio_5.pdb

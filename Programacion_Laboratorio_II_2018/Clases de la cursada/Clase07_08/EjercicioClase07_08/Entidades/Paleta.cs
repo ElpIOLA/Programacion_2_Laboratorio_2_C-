@@ -16,15 +16,13 @@ namespace Entidades
         private string Mostrar()
         {
             string retorno = "";
-            int cantidad;
-
-            cantidad = this._colores.GetLength(0);
-            Console.ForegroundColor = ConsoleColor.DarkRed;
-            retorno += "\nCANTIADAD: " + cantidad;
-            retorno += "\n\tCOLORES DEL ARRAY\n";
-            for (int i = 0; i < cantidad; i++)
+            retorno += "Cantidad de elementos: " + this._cantMaximaElementos +"\r\n";
+            foreach (Tempera item in this._colores)
             {
-                retorno += "\n" + (i + 1) + "-.COLOR: " + this._colores.GetValue(i);
+                if (!(Object.Equals(item, null)))
+                {
+                    retorno += item + "\r\n";
+                }
             }
             return retorno;
         }
@@ -163,6 +161,36 @@ namespace Entidades
         {
             this._cantMaximaElementos = C;
             this._colores = new Tempera[this._cantMaximaElementos];
+        }
+        #endregion
+
+        #region Indexador
+
+        public Tempera this [int indice]
+        {
+            get
+            {
+                if (indice >= this._cantMaximaElementos || indice < 0)
+                    return null;
+                else
+                    return this._colores[indice];
+            }
+            set
+            {
+                if(indice >= 0 && indice < this._cantMaximaElementos)
+                {
+                    this._colores[indice] = value;
+                } 
+                else if(indice == this._colores.GetLength(0))
+                {
+                    this[indice] = value;
+                }
+                else
+                {
+                    Console.WriteLine("No se puede asignar a este elemento");
+                    Console.ReadLine();
+                }
+            }
         }
         #endregion
     }
