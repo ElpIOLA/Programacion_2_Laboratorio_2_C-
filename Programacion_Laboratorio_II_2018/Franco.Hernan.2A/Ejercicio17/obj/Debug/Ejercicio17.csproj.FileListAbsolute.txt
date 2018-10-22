@@ -1,7 +1,0 @@
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\bin\Debug\Ejercicio17.exe.config
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\bin\Debug\Ejercicio17.exe
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\bin\Debug\Ejercicio17.pdb
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\obj\Debug\Ejercicio17.exe
-C:\Users\ElpIOLA\Desktop\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Franco.Hernan.2A\Ejercicio17\obj\Debug\Ejercicio17.pdb

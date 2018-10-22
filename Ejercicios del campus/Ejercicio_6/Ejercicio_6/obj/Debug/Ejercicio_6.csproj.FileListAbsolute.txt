@@ -1,0 +1,10 @@
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csprojAssemblyReference.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.Form1.resources
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.GenerateResource.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.CoreCompileInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Ejercicios del campus\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.pdb

@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+C:\Users\alumno\Desktop\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+F:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 15 Excepciones\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.pdb

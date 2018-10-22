@@ -1,0 +1,13 @@
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\bin\Debug\TestForm.exe
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\bin\Debug\TestForm.pdb
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\bin\Debug\Entidades.dll
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\bin\Debug\Entidades.pdb
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.csproj.CopyComplete
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.exe
+C:\Users\Hernan Franco\Desktop\RPP LABORATORIO 2 2016\TestForm\obj\Debug\TestForm.pdb
