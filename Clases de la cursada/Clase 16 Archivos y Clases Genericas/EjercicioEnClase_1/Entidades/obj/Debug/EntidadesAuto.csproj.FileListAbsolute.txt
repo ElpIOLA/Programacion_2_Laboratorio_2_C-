@@ -1,0 +1,11 @@
+E:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.csproj.CoreCompileInputs.cache
+E:\EjercicioEnClase_1\Entidades\bin\Debug\EntidadesAuto.dll
+E:\EjercicioEnClase_1\Entidades\bin\Debug\EntidadesAuto.pdb
+E:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.dll
+E:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.pdb
+F:\EjercicioEnClase_1\Entidades\bin\Debug\EntidadesAuto.dll
+F:\EjercicioEnClase_1\Entidades\bin\Debug\EntidadesAuto.pdb
+F:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.csprojAssemblyReference.cache
+F:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.csproj.CoreCompileInputs.cache
+F:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.dll
+F:\EjercicioEnClase_1\Entidades\obj\Debug\EntidadesAuto.pdb

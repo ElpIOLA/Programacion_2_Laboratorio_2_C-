@@ -1,0 +1,16 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_8_Library\obj\Debug\Clase_8_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_8_Library\bin\Debug\Clase_8_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_8_Library\bin\Debug\Clase_8_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_8_Library\obj\Debug\Clase_8_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_8_Library\obj\Debug\Clase_8_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_8\Clase_8_Library\bin\Debug\Clase_8_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_8\Clase_8_Library\bin\Debug\Clase_8_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.pdb
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\bin\Debug\Clase_8_Library.dll
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\bin\Debug\Clase_8_Library.pdb
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.csprojAssemblyReference.cache
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.csproj.CoreCompileInputs.cache
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.dll
+C:\Users\Hernan Franco\Desktop\Final_Clase_8\Clase_8_Library\obj\Debug\Clase_8_Library.pdb

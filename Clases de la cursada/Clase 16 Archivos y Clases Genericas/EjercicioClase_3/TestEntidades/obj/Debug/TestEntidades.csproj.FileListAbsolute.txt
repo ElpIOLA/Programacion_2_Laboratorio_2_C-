@@ -1,0 +1,16 @@
+E:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+E:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+F:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+F:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+F:\EjercicioClase_3\TestEntidades\bin\Debug\TestEntidades.exe.config
+F:\EjercicioClase_3\TestEntidades\bin\Debug\TestEntidades.exe
+F:\EjercicioClase_3\TestEntidades\bin\Debug\TestEntidades.pdb
+F:\EjercicioClase_3\TestEntidades\bin\Debug\Entidades.dll
+F:\EjercicioClase_3\TestEntidades\bin\Debug\EntidadesAuto.dll
+F:\EjercicioClase_3\TestEntidades\bin\Debug\EntidadesCocina.dll
+F:\EjercicioClase_3\TestEntidades\bin\Debug\EntidadesAuto.pdb
+F:\EjercicioClase_3\TestEntidades\bin\Debug\EntidadesCocina.pdb
+F:\EjercicioClase_3\TestEntidades\bin\Debug\Entidades.pdb
+F:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+F:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.exe
+F:\EjercicioClase_3\TestEntidades\obj\Debug\TestEntidades.pdb

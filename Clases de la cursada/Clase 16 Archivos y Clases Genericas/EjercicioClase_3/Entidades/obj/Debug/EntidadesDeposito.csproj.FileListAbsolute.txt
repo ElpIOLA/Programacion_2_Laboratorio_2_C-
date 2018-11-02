@@ -1,0 +1,11 @@
+E:\EjercicioClase_3\Entidades\bin\Debug\Entidades.dll
+E:\EjercicioClase_3\Entidades\bin\Debug\Entidades.pdb
+E:\EjercicioClase_3\Entidades\obj\Debug\EntidadesDeposito.csproj.CoreCompileInputs.cache
+E:\EjercicioClase_3\Entidades\obj\Debug\Entidades.dll
+E:\EjercicioClase_3\Entidades\obj\Debug\Entidades.pdb
+F:\EjercicioClase_3\Entidades\bin\Debug\Entidades.dll
+F:\EjercicioClase_3\Entidades\bin\Debug\Entidades.pdb
+F:\EjercicioClase_3\Entidades\obj\Debug\EntidadesDeposito.csprojAssemblyReference.cache
+F:\EjercicioClase_3\Entidades\obj\Debug\EntidadesDeposito.csproj.CoreCompileInputs.cache
+F:\EjercicioClase_3\Entidades\obj\Debug\Entidades.dll
+F:\EjercicioClase_3\Entidades\obj\Debug\Entidades.pdb

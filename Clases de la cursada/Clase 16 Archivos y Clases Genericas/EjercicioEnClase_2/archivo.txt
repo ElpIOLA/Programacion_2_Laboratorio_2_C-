@@ -1,0 +1,6 @@
+
+Cantidad maxima del Deposito: 5
+Cantidad de cocinas en el Deposito: 2
+Lista de cocinas:
+Codigo: 111 Precio: 12300 Industrail: False
+Codigo: 113 Precio: 5600 Industrail: False

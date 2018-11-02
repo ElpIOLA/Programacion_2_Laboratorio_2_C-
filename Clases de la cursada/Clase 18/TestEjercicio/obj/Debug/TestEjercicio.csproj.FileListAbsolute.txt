@@ -1,0 +1,10 @@
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\bin\Debug\TestEjercicio.exe.config
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\bin\Debug\TestEjercicio.exe
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\bin\Debug\TestEjercicio.pdb
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\bin\Debug\Entidades.dll
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\bin\Debug\Entidades.pdb
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\obj\Debug\TestEjercicio.csprojAssemblyReference.cache
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\obj\Debug\TestEjercicio.csproj.CoreCompileInputs.cache
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\obj\Debug\TestEjercicio.csproj.CopyComplete
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\obj\Debug\TestEjercicio.exe
+E:\Programacion_2_Laboratorio_2_C-\Programacion_Laboratorio_II_2018\Clases de la cursada\Clase 18\TestEjercicio\obj\Debug\TestEjercicio.pdb

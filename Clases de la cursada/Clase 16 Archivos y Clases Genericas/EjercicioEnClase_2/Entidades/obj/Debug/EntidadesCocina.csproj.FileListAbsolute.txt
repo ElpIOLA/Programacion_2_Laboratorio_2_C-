@@ -1,0 +1,10 @@
+E:\EjercicioEnClase_2\Entidades\bin\Debug\Entidades.dll
+E:\EjercicioEnClase_2\Entidades\bin\Debug\Entidades.pdb
+E:\EjercicioEnClase_2\Entidades\obj\Debug\EntidadesCocina.csproj.CoreCompileInputs.cache
+E:\EjercicioEnClase_2\Entidades\obj\Debug\Entidades.dll
+E:\EjercicioEnClase_2\Entidades\obj\Debug\Entidades.pdb
+F:\EjercicioEnClase_2\Entidades\obj\Debug\EntidadesCocina.csproj.CoreCompileInputs.cache
+F:\EjercicioEnClase_2\Entidades\bin\Debug\EntidadesCocina.dll
+F:\EjercicioEnClase_2\Entidades\bin\Debug\EntidadesCocina.pdb
+F:\EjercicioEnClase_2\Entidades\obj\Debug\EntidadesCocina.dll
+F:\EjercicioEnClase_2\Entidades\obj\Debug\EntidadesCocina.pdb
